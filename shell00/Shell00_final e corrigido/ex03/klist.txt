@@ -1,0 +1,6 @@
+Credentials cache: API:1424544
+        Principal: fgomes-n@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 22 22:44:07 2019  Nov 23 08:44:08 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 22 22:44:09 2019  Nov 23 08:44:08 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
