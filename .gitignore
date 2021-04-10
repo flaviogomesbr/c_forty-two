@@ -24,3 +24,6 @@ yarn-error.log*
 
 # And all the file types you're interested in.
 !*.pdf
+
+# Ignore all files ending with .pdf
+**.pdf
